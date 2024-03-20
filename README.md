@@ -8,4 +8,7 @@ Vector Space Methods <br />
 
 
 The firts project for my Digital Signal Processing is under the dsp_part1_new.mlapp. It is a <br />
-MATLAB application that one can generate and capture a sound data and plot the spectrogram of the data.
+MATLAB application that one can generate and capture a sound data and plot the spectrogram of the data. <br />
+
+The second project is about the Dual Tone Multi Frequency data generation and capture the message <br />
+with two different methods.
